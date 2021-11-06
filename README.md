@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amuejunankar
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning  Java % Azure.
+- 🌱 I’m currently learning > Java % Azure.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me 
       linkdin : www.linkedin.com/in/amues
